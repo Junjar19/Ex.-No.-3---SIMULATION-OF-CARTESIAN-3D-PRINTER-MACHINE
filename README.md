@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b85f8475-cb36-499c-abba-66878be5298b)![image](https://github.com/user-attachments/assets/ec556bcc-c68a-46bf-be7d-1abc2bbe0c48)![image](https://github.com/user-attachments/assets/6b1deb2b-df59-475f-ba94-05e8b53ea6f9)# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+ Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
